@@ -1,0 +1,440 @@
+[
+  {
+    "KanaSign": "ア",
+    "LatinName": "A",
+    "CyrillicName": "А",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "イ",
+    "LatinName": "I",
+    "CyrillicName": "И",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ウ",
+    "LatinName": "U",
+    "CyrillicName": "У",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "エ",
+    "LatinName": "E",
+    "CyrillicName": "Э",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "オ",
+    "LatinName": "O",
+    "CyrillicName": "О",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ン",
+    "LatinName": "N",
+    "CyrillicName": "Н",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "カ",
+    "LatinName": "KA",
+    "CyrillicName": "КА",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "キ",
+    "LatinName": "KI",
+    "CyrillicName": "КИ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ク",
+    "LatinName": "KU",
+    "CyrillicName": "КУ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ケ",
+    "LatinName": "KE",
+    "CyrillicName": "КЕ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "コ",
+    "LatinName": "KO",
+    "CyrillicName": "КО",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "サ",
+    "LatinName": "SA",
+    "CyrillicName": "СА",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "シ",
+    "LatinName": "SI",
+    "CyrillicName": "СИ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ス",
+    "LatinName": "SU",
+    "CyrillicName": "СУ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "セ",
+    "LatinName": "SE",
+    "CyrillicName": "СЕ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ソ",
+    "LatinName": "SO",
+    "CyrillicName": "СО",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "タ",
+    "LatinName": "TA",
+    "CyrillicName": "ТА",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "チ",
+    "LatinName": "CHI",
+    "CyrillicName": "ЧИ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ツ",
+    "LatinName": "TU",
+    "CyrillicName": "ЧУ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "テ",
+    "LatinName": "TE",
+    "CyrillicName": "ТЕ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ト",
+    "LatinName": "TO",
+    "CyrillicName": "ТО",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ナ",
+    "LatinName": "NA",
+    "CyrillicName": "НА",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ニ",
+    "LatinName": "NI",
+    "CyrillicName": "НИ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ヌ",
+    "LatinName": "NU",
+    "CyrillicName": "НУ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ネ",
+    "LatinName": "NE",
+    "CyrillicName": "НЕ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ノ",
+    "LatinName": "NO",
+    "CyrillicName": "НО",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ハ",
+    "LatinName": "HA",
+    "CyrillicName": "ХА",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ヒ",
+    "LatinName": "HI",
+    "CyrillicName": "ХИ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "フ",
+    "LatinName": "FU",
+    "CyrillicName": "ХУ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ヘ",
+    "LatinName": "HE",
+    "CyrillicName": "ХЕ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ホ",
+    "LatinName": "HO",
+    "CyrillicName": "ХО",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "マ",
+    "LatinName": "MA",
+    "CyrillicName": "МА",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ミ",
+    "LatinName": "MI",
+    "CyrillicName": "МИ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ム",
+    "LatinName": "MU",
+    "CyrillicName": "МУ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "メ",
+    "LatinName": "ME",
+    "CyrillicName": "МЭ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "モ",
+    "LatinName": "MO",
+    "CyrillicName": "МО",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ヤ",
+    "LatinName": "YA",
+    "CyrillicName": "Я",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ユ",
+    "LatinName": "YU",
+    "CyrillicName": "Ю",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ヨ",
+    "LatinName": "YO",
+    "CyrillicName": "Ё",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ラ",
+    "LatinName": "RA",
+    "CyrillicName": "РА",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "リ",
+    "LatinName": "RI",
+    "CyrillicName": "РИ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ル",
+    "LatinName": "RU",
+    "CyrillicName": "РУ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "レ",
+    "LatinName": "RE",
+    "CyrillicName": "РЭ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ロ",
+    "LatinName": "RO",
+    "CyrillicName": "РО",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ワ",
+    "LatinName": "WA",
+    "CyrillicName": "ВА",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ヰ",
+    "LatinName": "WI",
+    "CyrillicName": "ВИ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ヱ",
+    "LatinName": "WE",
+    "CyrillicName": "ВЭ",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ヲ",
+    "LatinName": "WO",
+    "CyrillicName": "ВО",
+    "KanaType": 0
+  },
+  {
+    "KanaSign": "ガ",
+    "LatinName": "GA",
+    "CyrillicName": "ГА",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ギ",
+    "LatinName": "GI",
+    "CyrillicName": "ГИ",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "グ",
+    "LatinName": "GU",
+    "CyrillicName": "ГУ",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ゲ",
+    "LatinName": "GE",
+    "CyrillicName": "ГЕ",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ゴ",
+    "LatinName": "GO",
+    "CyrillicName": "ГО",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ザ",
+    "LatinName": "ZA",
+    "CyrillicName": "ДЗА",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ジ",
+    "LatinName": "JI",
+    "CyrillicName": "ЗИ",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ズ",
+    "LatinName": "ZU",
+    "CyrillicName": "ДЗУ",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ゼ",
+    "LatinName": "ZE",
+    "CyrillicName": "ДЗЕ",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ゾ",
+    "LatinName": "ZO",
+    "CyrillicName": "ДЗО",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ダ",
+    "LatinName": "DA",
+    "CyrillicName": "ДА",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ヂ",
+    "LatinName": "DZI",
+    "CyrillicName": "ДЗИ",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ヅ",
+    "LatinName": "DZU",
+    "CyrillicName": "ДЗУ",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "デ",
+    "LatinName": "DE",
+    "CyrillicName": "ДЕ",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ド",
+    "LatinName": "DO",
+    "CyrillicName": "ДО",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "バ ",
+    "LatinName": "BA",
+    "CyrillicName": "БА",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ビ",
+    "LatinName": "BI",
+    "CyrillicName": "БИ",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ブ",
+    "LatinName": "BU",
+    "CyrillicName": "БУ",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ベ",
+    "LatinName": "BE",
+    "CyrillicName": "БЕ",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "ボ",
+    "LatinName": "BO",
+    "CyrillicName": "БО",
+    "KanaType": 1
+  },
+  {
+    "KanaSign": "パ",
+    "LatinName": "PA",
+    "CyrillicName": "ПА",
+    "KanaType": 2
+  },
+  {
+    "KanaSign": "ピ",
+    "LatinName": "PI",
+    "CyrillicName": "ПИ",
+    "KanaType": 2
+  },
+  {
+    "KanaSign": "プ",
+    "LatinName": "PU",
+    "CyrillicName": "ПУ",
+    "KanaType": 2
+  },
+  {
+    "KanaSign": "ペ ",
+    "LatinName": "PE",
+    "CyrillicName": "ПЕ",
+    "KanaType": 2
+  },
+  {
+    "KanaSign": "ポ",
+    "LatinName": "PO",
+    "CyrillicName": "ПО",
+    "KanaType": 2
+  }
+]
